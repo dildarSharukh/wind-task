@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1707639639 source:c:\users\ashiq\onedrive\desktop\project related\test q1\sample\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	<chrono>
+	<thread>
+
